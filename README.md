@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/shell-zsl-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/tools-PostgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-* How to reach me rohit.sharma1986@live.com
+* How to reach me rohitsharma2862outlook.com
 <!-- * My Projects are available at -  -->
 
 
