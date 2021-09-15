@@ -3,13 +3,6 @@
 ### <p>A London-based Developer  <img align="center" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="80px"></p>
 
 <!-- SKILLS -->
-<!-- ![](https://img.shields.io/badge/code-Ruby-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/framework-Rails-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/framework-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/shell-zsl-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/tools-PostgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/tools-Redux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
 #### Coding Languages : 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -40,10 +33,6 @@
 
 
 #### Connect with me :     &nbsp;   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrrohitsharma)  &nbsp;  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ritz2286)  &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rrohit_s/) &nbsp; [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/srohit66) &nbsp; [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rohit.sharma1986)
-
-<!--  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/rohit.svg?style=social&label=Follow%20%40rohitsharma)](https://twitter.com/ritz2286) -->
-
-
 
 <br/>
 
