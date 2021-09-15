@@ -9,12 +9,13 @@
 ![](https://img.shields.io/badge/framework-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/shell-zsl-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/tools-PostgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/tools-Redux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 * How to reach me rohitsharma286@outlook.com
 <!-- * My Projects are available at -  -->
 
 
-#### Connect with me :     &nbsp;   [![LinkedIn URL](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)](https://www.linkedin.com/in/mrrohitsharma)                          &nbsp;  [![Twitter URL](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter)](https://twitter.com/ritz2286)&nbsp; [![Instagram URL](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)](https://www.instagram.com/rrohit_s/)
+#### Connect with me :     &nbsp;   [![LinkedIn URL](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)](https://www.linkedin.com/in/mrrohitsharma)  &nbsp;  [![Twitter URL](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter)](https://twitter.com/ritz2286)  &nbsp; [![Instagram URL](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)](https://www.instagram.com/rrohit_s/)
 
 <!--  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/rohit.svg?style=social&label=Follow%20%40rohitsharma)](https://twitter.com/ritz2286) -->
 
